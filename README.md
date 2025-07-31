@@ -14,3 +14,8 @@ sudo apt install -y build-essential libpcap-dev libpcre3-dev libdumbnet-dev biso
 ```
 https://letsdefend.io/blog/how-to-install-and-configure-snort-on-ubuntu
 ```
+
+*check if exist*
+```
+snort -V
+```
